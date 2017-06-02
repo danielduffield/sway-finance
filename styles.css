@@ -11,5 +11,12 @@
 .foreground-above-fold {
   margin: 0 auto;
   position: relative;
-  width: 75%;
+  width: 73%;
+}
+
+#main-logo {
+  margin: 0;
+  position: relative;
+  top: 45px;
+  width: 154px;
 }
