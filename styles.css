@@ -3,4 +3,7 @@
   height: 100%;
   width: 100%;
   background-color: black;
+  background-image: url(images/bigbackground.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
