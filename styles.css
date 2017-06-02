@@ -23,5 +23,8 @@ header {
 }
 
 .nav-link {
+  text-align: center;
+  line-height: 60px;
+  width: 75px;
   float: right;
 }
