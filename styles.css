@@ -1,0 +1,22 @@
+.background {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  background-image: url(images/bigbackground.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.foreground-above-fold {
+  margin: 0 auto;
+  position: relative;
+  width: 73%;
+}
+
+#main-logo {
+  margin: 0;
+  position: relative;
+  top: 45px;
+  width: 154px;
+}
