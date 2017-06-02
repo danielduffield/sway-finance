@@ -7,3 +7,9 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.foreground-above-fold {
+  margin: 0 auto;
+  position: relative;
+  width: 75%;
+}
