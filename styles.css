@@ -58,5 +58,6 @@ header {
 
 #slack-snapshot {
   margin: 0 auto;
+  padding-top: 75px;
   min-width: 600px;
 }
