@@ -8,7 +8,7 @@
   background-repeat: no-repeat;
 }
 
-.foreground-above-fold {
+#foreground {
   margin: 0 auto;
   position: relative;
   width: 73%;
