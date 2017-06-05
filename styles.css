@@ -55,3 +55,9 @@ header {
   font-size: 16px;
   font-weight: 300;
 }
+
+#slack-snapshot {
+  margin: 0 auto;
+  padding-top: 75px;
+  min-width: 600px;
+}
