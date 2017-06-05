@@ -41,6 +41,17 @@ header {
   font-family: "Roboto", sans-serif;
   color: #fff;
   text-align: center;
-  letter-spacing: 2px;
   padding-top: 100px;
+}
+
+.main-description {
+  letter-spacing: 2px;
+  font-size: 37px;
+  font-weight: 300;
+}
+
+.sub-description {
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 300;
 }
