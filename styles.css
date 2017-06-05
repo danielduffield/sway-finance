@@ -36,3 +36,7 @@ header {
   position: relative;
   right: 15px;
 }
+
+#main-description {
+  padding-top: 100px;
+}
