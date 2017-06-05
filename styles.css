@@ -29,7 +29,7 @@ header {
   width: 75px;
   float: right;
   color: #728993;
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 1.1em;
   font-weight: 300;
   margin: 1px 5px 0 0;
@@ -38,6 +38,9 @@ header {
 }
 
 #main-description {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
   text-align: center;
+  letter-spacing: 2px;
   padding-top: 100px;
 }
